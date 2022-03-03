@@ -1,5 +1,3 @@
-// Deep Biswas, Spring 2022
-// CS381: Advanced C++, Professor Waxman
 #include<iostream>
 #include<cstdlib>
 #include<cmath>
